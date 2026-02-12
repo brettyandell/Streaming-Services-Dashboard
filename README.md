@@ -1,3 +1,4 @@
+<img width="2010" height="1124" alt="Streaming Services Dashboard" src="https://github.com/user-attachments/assets/cc57890b-df59-4302-9001-48488c855875" />
 **Streaming Services Dashboard **
 
 Files Included
